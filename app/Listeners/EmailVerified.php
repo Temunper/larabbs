@@ -20,7 +20,7 @@ class EmailVerified
     }
 
     /**
-     * Handle the event.
+     * Handlers the event.
      *
      * @param  \Illuminate\Auth\Events\Verified  $event
      * @return void
